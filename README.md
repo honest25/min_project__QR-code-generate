@@ -1,1 +1,1 @@
-# min_project__QR-code-generate
+# min_project__QR-code-generate-Python
